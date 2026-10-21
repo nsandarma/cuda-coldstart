@@ -1,0 +1,15 @@
+{"api":"runtime <<<>>>","enqueue_us":1.6206,"sync_us_p50":4.7840,"sync_us_p90":5.0180}
+{"api":"cudaLaunchKernel","enqueue_us":1.6426,"sync_us_p50":4.7840,"sync_us_p90":5.0400}
+{"api":"cuLaunchKernel","enqueue_us":1.6213,"sync_us_p50":4.7140,"sync_us_p90":4.8600}
+{"api":"runtime <<<>>>","enqueue_us":1.5695,"sync_us_p50":4.7510,"sync_us_p90":4.8070}
+{"api":"cudaLaunchKernel","enqueue_us":1.5695,"sync_us_p50":4.7280,"sync_us_p90":4.9500}
+{"api":"cuLaunchKernel","enqueue_us":1.5682,"sync_us_p50":4.6870,"sync_us_p90":4.8270}
+{"api":"runtime <<<>>>","enqueue_us":1.5671,"sync_us_p50":4.7530,"sync_us_p90":4.8170}
+{"api":"cudaLaunchKernel","enqueue_us":1.5643,"sync_us_p50":4.7420,"sync_us_p90":4.9360}
+{"api":"cuLaunchKernel","enqueue_us":1.5017,"sync_us_p50":4.5650,"sync_us_p90":4.6540}
+{"api":"runtime <<<>>>","enqueue_us":1.4041,"sync_us_p50":4.5110,"sync_us_p90":4.7590}
+{"api":"cudaLaunchKernel","enqueue_us":1.4044,"sync_us_p50":4.4870,"sync_us_p90":4.7250}
+{"api":"cuLaunchKernel","enqueue_us":1.4044,"sync_us_p50":4.4370,"sync_us_p90":4.6300}
+{"api":"runtime <<<>>>","enqueue_us":1.1086,"sync_us_p50":4.0840,"sync_us_p90":4.2980}
+{"api":"cudaLaunchKernel","enqueue_us":1.1189,"sync_us_p50":4.0490,"sync_us_p90":4.2950}
+{"api":"cuLaunchKernel","enqueue_us":1.1205,"sync_us_p50":4.0000,"sync_us_p90":4.1490}

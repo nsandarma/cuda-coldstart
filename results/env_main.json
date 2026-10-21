@@ -1,0 +1,9 @@
+{
+  "gpu": "NVIDIA GeForce RTX 3050 4GB Laptop GPU, 8.6, 615.71.09, 4096 MiB",
+  "cuda_toolkit": "Build cuda_13.4.r13.4/compiler.38855100_0",
+  "cpu": "13th Gen Intel(R) Core(TM) i5-13420H",
+  "kernel": "7.2.9-1-cachyos",
+  "other_gpu_processes": "",
+  "runtime_d3": "Runtime D3 status:          Enabled (fine-grained)",
+  "date": "2026-10-09 14:40:50"
+}
